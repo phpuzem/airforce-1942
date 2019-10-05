@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 5de9a444fe6d3db48ba704b6509e5b7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8260928743733480425
+    second: Clouds-PNG-Pic_0
+  - first:
+      213: -5078127654505711571
+    second: Clouds-PNG-Pic_1
+  - first:
+      213: -675078438479744308
+    second: Clouds-PNG-Pic_2
+  - first:
+      213: 8941832006294022889
+    second: Clouds-PNG-Pic_3
+  - first:
+      213: -5500329005156099623
+    second: Clouds-PNG-Pic_4
+  - first:
+      213: -8788008231273805517
+    second: Clouds-PNG-Pic_5
+  - first:
+      213: -4281890587222156673
+    second: Clouds-PNG-Pic_6
+  - first:
+      213: -6770084548866447631
+    second: Clouds-PNG-Pic_7
+  - first:
+      213: -890035358776718439
+    second: Clouds-PNG-Pic_8
+  - first:
+      213: -5746674255531620911
+    second: Clouds-PNG-Pic_9
+  - first:
+      213: 6996329183166171630
+    second: Clouds-PNG-Pic_10
+  - first:
+      213: 7435093103608226094
+    second: Clouds-PNG-Pic_11
+  - first:
+      213: -2110088123325533389
+    second: Clouds-PNG-Pic_12
+  - first:
+      213: 6090856766043981967
+    second: Clouds-PNG-Pic_13
+  - first:
+      213: -3127564273831801612
+    second: Clouds-PNG-Pic_14
+  - first:
+      213: 2513326572389192540
+    second: Clouds-PNG-Pic_15
+  - first:
+      213: 4326422753862752827
+    second: Clouds-PNG-Pic_16
+  - first:
+      213: -2974543509142323189
+    second: Clouds-PNG-Pic_17
+  - first:
+      213: -3122342606160106035
+    second: Clouds-PNG-Pic_18
+  - first:
+      213: 3793554261764166273
+    second: Clouds-PNG-Pic_19
+  - first:
+      213: -5290632038682256381
+    second: Clouds-PNG-Pic_20
+  - first:
+      213: 5377833811464235556
+    second: Clouds-PNG-Pic_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clouds-PNG-Pic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 781
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb044acb6825ce46963d145f21ce35c
+      internalID: 8260928743733480425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds-PNG-Pic_2
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 549
+        width: 663
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b05bca79e7024f9f96baa8560fbad
+      internalID: -675078438479744308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds-PNG-Pic_4
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 772
+        width: 393
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb43869f603d64ebec87f5516df34b
+      internalID: -5500329005156099623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds-PNG-Pic_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 151
+        width: 761
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaffb6a114dd0c408e9c63a031e35ba
+      internalID: 6090856766043981967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds-PNG-Pic_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 294
+        width: 715
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690c20977e00c14799130a0b60f436a
+      internalID: -3127564273831801612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds-PNG-Pic_1
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 171
+        width: 440
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99f224402debd40ad3e347d0033045
+      internalID: -5078127654505711571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds-PNG-Pic_3
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 0
+        width: 330
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b498956d20ca343b3648931495b3e4
+      internalID: 8941832006294022889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
